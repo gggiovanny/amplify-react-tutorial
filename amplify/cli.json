@@ -6,21 +6,6 @@
       "breakcirculardependency": true,
       "forcealiasattributes": false
     },
-    "codegen": {
-      "useappsyncmodelgenplugin": true,
-      "usedocsgeneratorplugin": true,
-      "usetypesgeneratorplugin": true,
-      "cleangeneratedmodelsdirectory": true,
-      "retaincasestyle": true,
-      "addtimestampfields": true,
-      "handlelistnullabilitytransparently": true,
-      "emitauthprovider": true,
-      "generateindexrules": true,
-      "enabledartnullsafety": true
-    },
-    "appsync": {
-      "generategraphqlpermissions": true
-    },
     "latestregionsupport": {
       "pinpoint": 1,
       "translate": 1,
